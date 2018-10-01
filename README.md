@@ -1,6 +1,6 @@
 # socket-introduction
 Simple example of chat using socket server
-# Requirment:
+# Requirement:
 > python 3
 
 # To test:
